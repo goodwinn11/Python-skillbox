@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "faf60cb5-46ca-4e74-873c-b4b44b489e39",
+        "line": 20,
+        "version": 3290,
+        "index": 607
+      }
+    ],
+    "task_4.py": [
+      {
+        "id": "60b037cc-2d70-41c5-a5d6-06a8361957f5",
+        "line": 10,
+        "version": 2,
+        "index": 369
+      }
+    ],
+    "task_9.py": [
+      {
+        "id": "5b8c96b6-1f3a-4887-b5a8-b3a1300122b6",
+        "line": 26,
+        "version": 2,
+        "index": 687
+      }
+    ]
+  }
+}
